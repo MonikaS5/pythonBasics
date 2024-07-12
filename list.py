@@ -10,6 +10,8 @@ names = ["John", "Bob", "Tom"]
 print(names[1])
 print(names)
 print(names[-1])
+print(names[-2])
 names[0] = "Ron"
 print(names)
+
 
