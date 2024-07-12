@@ -1,4 +1,7 @@
+print(" If loop ")
+
 print(" **** Weight Conversion in kg/lb **** ")
+
 weight = input("Enter  k  for kilogram(kg)  and enter  l  for pound(lb) :")
 
 if weight == 'k' or weight == 'K':
@@ -15,3 +18,5 @@ elif weight == 'l' or weight == 'L':
 
 else:
     print("Invalid Input")
+
+
